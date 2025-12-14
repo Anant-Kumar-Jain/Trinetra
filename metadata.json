@@ -1,0 +1,8 @@
+{
+  "name": "Trinetra: Unified Civic Surveillance",
+  "description": "Third eye is always watching. A secure, privacy-controlled platform connecting private CCTV infrastructure with local authorities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
